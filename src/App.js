@@ -1,8 +1,11 @@
 import './App.css';
 
-function App() {
+function App(props) {
   return (
-    <h1>Primeiro App em React</h1>
+    <div>
+    <h1>{ props.title } {props.user }</h1>
+    <input name="usuario" className="usuario" id="usuario" placeholder="Digite aqui seu usuario :::" />
+    </div>
   );
 }
 
