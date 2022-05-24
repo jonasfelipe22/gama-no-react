@@ -1,4 +1,9 @@
 # Getting Started with Create React App
+<p>Nesse projrto vamos iniciar os estudos em react e consumir uma API do github para localização de repositorios</p>
+
+
+
+<p><i>Dicas de criação do React</i></p>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
